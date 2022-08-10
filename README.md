@@ -1,5 +1,11 @@
 # blog-website where users can add, delete, and edit their daily posts.
 
+## Features
+
+- Add a post by adding "/compose" to url. This is a hidden page only for owner.
+- Creating a new route to orgaize posts
+- Delete, edit a post.
+
 ## Installation
 
 blog-website requires [Node.js] to run.
