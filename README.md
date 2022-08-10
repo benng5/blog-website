@@ -1,5 +1,17 @@
 # blog-website where users can add, delete, and edit their daily posts.
 
+## Installation
+
+blog-website requires [Node.js] to run.
+
+Install the dependencies and start the server.
+
+```sh
+cd my-website
+npm i
+node app.js
+```
+
 ## Tech
 - [JavaScript] [HTML], [CSS]: duh.
 - [Node.js] - back-end JavaScript runtime environment.
